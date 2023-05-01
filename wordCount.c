@@ -32,8 +32,7 @@ int main() {
     printf("The number of words in the file is: %d\n", num_words);
 
     fclose(f);
-    char* a;
-	scanf("input£ºenter%s",a) ;
+	system("pause");
     return 0;
 }
 
